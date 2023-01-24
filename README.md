@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, AWS**
 
-- 📫 How to reach me **Princeranjan2546@gmail.com**
+- 📫  For Contact **Princeranjan2546@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
