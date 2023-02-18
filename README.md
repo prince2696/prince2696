@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/Prince_Ranjan2" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/princer41281097?logo=twitter&style=for-the-badge" alt="https://twitter.com/Prince_Ranjan2" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack, AWS**
+- 🌱 I’m currently learning **Full-Stack, Blockchain,Aws**
 
 - 📫  For Contact **Princeranjan2546@gmail.com**
 
