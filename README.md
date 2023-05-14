@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince2696&show_icons=true&locale=en" alt="prince2696" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince2696&" alt="prince2696" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=prince2696&](https://github-readme-streak-stats.herokuapp.com/?user=Dipendra6377&theme=tokyonight&hide_border=false)%3Cbr/%3E)" alt="prince2696" /></p>
