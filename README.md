@@ -1,4 +1,4 @@
-# 💫 About Me:
+#💫 About Me:
 🔭 I'm currently doing *Data Structure and Algorithm from Striver A2Z Sheet<br><br>👷 I'm currently working on project on full stack web development<br><br><br>✍️ contact me through princeranjan2546@gmail.com
 
 
